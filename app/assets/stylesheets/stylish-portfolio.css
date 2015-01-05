@@ -20,6 +20,14 @@ h1 {
     color: white;
 }
 
+h3 {
+    color: white;
+}
+
+.lead {
+    text-align: left;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
